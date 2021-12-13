@@ -7,6 +7,11 @@ This article talks about some tips I learnt through the 1.5 months of parenting,
 2. Diaper changing station setup
 3. Burping techniques 
 
+<video controls="controls" width="100%">
+  <source type="video/mp4" src="/content/images/2021/12/Img 5415-1.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
+
 ## Mental Preparation for Newborn Caring
 
 
@@ -14,11 +19,9 @@ First I have to admit: taking care of a newborn during the first month sucks. Ma
 
 The second point is that you need to stay calm all the time, even if the baby is screaming at 110 decibels. Biologically we are wired so that when the baby cries our heart starts racing, and blood pressure goes up. We feel the urge to resolve whatever issues as fast as possible, but sometimes it just clogs our mind and prevents us from identifying the real cause. Take a deep breath, calm down, don’t shake the baby, and try your best. 
 
-The third point is to log everything. Because the baby will go into a rhythm pretty soon for their daily routine, logging their eat, diaper and sleep schedule helps you predict what they are crying about. We used this app called Baby tracker because it’s dead simple, but you can choose whatever suits you. 
+The third point is to log everything. Because the baby will go into a rhythm pretty soon for their daily routine, logging their eat, diaper and sleep schedule helps you predict what they are crying about. We used [Baby Tracker](https://nighp.com/babytracker/) because it’s dead simple, but you can choose whatever suits you. 
 
 The fourth point is that what the book says or the doctor tells you is only a starting point to solve your baby’s issue. You will need to experiment further. Our baby had some cradle cap explosion at the beginning and the doctor kept telling us it's fine just moisturizing it. Turns out washing his face daily dissolved all the caps. 
-
-This [youtube video](https://www.youtube.com/watch?v=uKVJ_rZZGz0) is probably the most realistic of some of the sounds baby can make while sleeping, be prepared. The most likely cause is colic, but you may or may not find a cure. 
 
 
 ## Diaper Changing Station Setup
