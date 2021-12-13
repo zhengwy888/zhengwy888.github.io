@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Weiyi is too lazy to leave anything here
+Weiyi occasionally writes about travel experiences, tech tips and parenting experience. 
